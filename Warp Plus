@@ -1,7 +1,8 @@
 #profile-title: Warp Plus
-#profile-update-interval: 1
+#profile-update-interval: 24
 
+warp://678L4fGT-Vp97Lk62-h04tX2u1@auto?ifp=5-10#Warp Plus
 warp://cname.ircf.space?ifp=5-10#General
 warp://mci.ircf.space?ifp=5-10#MCI
 warp://mtn.ircf.space?ifp=5-10#Irancell
-warp://188.114.99.165:968?ifp=5-10#Warp in Warp&&detour=warp://162.159.193.228:968?ifp=5-10#Warp
+warp://188.114.96.172:4198?ifp=5-10#Warp in Warp&&detour=warp://162.159.195.245:4198?ifp=5-10#Warp
